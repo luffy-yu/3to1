@@ -22,7 +22,7 @@ How to merge **3** kinds of sources (*.swf, *.grf, *.xml) to **1** video
 
 ![doc/running.jpg](doc/running.jpg)
 
-![doc/demo.jpg](doc/demo.jpg)
+![doc/demo.png](doc/demo.png)
 
 - processed
 
@@ -96,6 +96,10 @@ FFMPEG_VideoWriter
 - ffmpeg location on macOS
 
 ~/Library/Application Support/imageio/ffmpeg/ffmpeg-osx-v3.2.4
+
+- http.server root path
+
+**src/**
 
 ## Download URLs
 
